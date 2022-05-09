@@ -1,0 +1,25 @@
+mode: set
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:16.114,18.16 2 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:24.2,24.36 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:28.2,28.25 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:33.2,37.30 2 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:41.2,41.8 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:18.16,19.25 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:22.3,22.9 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:19.25,21.4 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:24.36,26.3 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:28.25,31.3 2 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:37.30,40.3 2 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:44.43,46.2 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:48.78,52.52 4 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:69.2,73.28 4 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:87.2,87.8 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:52.52,53.41 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:57.3,57.25 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:66.3,66.45 1 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:53.41,55.12 2 0
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:57.25,58.43 1 0
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:62.4,64.26 3 0
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:58.43,60.13 2 0
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:73.28,83.36 4 1
+github.com/lekan-pvp/multi-git/pkg/repo_manager/repo_manager.go:83.36,85.4 1 0
